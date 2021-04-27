@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace Ghost.books.Controllers
 {
     [Route("api/v1/usuario")]
-    [ApiController]
+    [ApiController]  //api
 #pragma warning disable CS1591 // O comentário XML ausente não foi encontrado para o tipo ou membro visível publicamente
     public class UsuarioController : ControllerBase
 #pragma warning restore CS1591 // O comentário XML ausente não foi encontrado para o tipo ou membro visível publicamente
